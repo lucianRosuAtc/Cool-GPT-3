@@ -109,33 +109,3 @@
     line-height: 14px;
     color: #FFFFFF;
 }
-
-@media(max-width:850px){
-    .gpt3__footer-heading h1{
-        font-size: 44px;
-        line-height: 50px;
-    }
-}
-
-@media(max-width:550px){
-    .gpt3__footer-heading h1{
-        font-size: 34px;
-        line-height: 42px;
-    }
-
-    .gpt3__footer-links div{
-        margin: 1rem 0;
-    }
-
-    .gpt3__footer-btn p{
-        font-size: 14px;
-        line-height: 20px;
-    }
-}
-
-@media(max-width:400px){
-    .gpt3__footer-heading h1{
-        font-size: 27px;
-        line-height: 38px;
-    }
-}
